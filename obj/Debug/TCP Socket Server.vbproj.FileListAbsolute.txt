@@ -1,0 +1,11 @@
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Server\TCP Socket Server\bin\Debug\TCP Socket Server.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Server\TCP Socket Server\bin\Debug\TCP Socket Server.exe
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Server\TCP Socket Server\bin\Debug\TCP Socket Server.pdb
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Server\TCP Socket Server\bin\Debug\TCP Socket Server.xml
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Server\TCP Socket Server\obj\Debug\TCP_Socket_Server.Form1.resources
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Server\TCP Socket Server\obj\Debug\TCP_Socket_Server.Resources.resources
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Server\TCP Socket Server\obj\Debug\TCP Socket Server.vbproj.GenerateResource.Cache
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Server\TCP Socket Server\obj\Debug\TCP Socket Server.exe
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Server\TCP Socket Server\obj\Debug\TCP Socket Server.xml
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Server\TCP Socket Server\obj\Debug\TCP Socket Server.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\TCP Socket Server\TCP Socket Server\obj\Debug\TCP Socket Server.vbprojResolveAssemblyReference.cache
